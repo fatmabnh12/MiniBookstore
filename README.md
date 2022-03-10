@@ -1,4 +1,4 @@
-# bookstuff
+# Bookstore App 
 
 A new Flutter project.
 
